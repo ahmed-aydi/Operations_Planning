@@ -22,7 +22,3 @@ This project provides a comprehensive, pivot-analyzed workforce planning and ope
 ## Tools Used
 * **Microsoft Excel:** Data structuring, advanced formulas, multi-dimensional pivot tables, and analytical summary layout.
 * **Power Query / Data Modeling:** For data cleaning, field transformations, and calculating key metrics (Unworked Amount, Overtime Earnings, Variance).
-
-## Tools Used
-* **Microsoft Excel:** Data structuring, advanced formulas, multi-dimensional pivot tables, and analytical summary layout.
-* **Power Query / Data Modeling:** For data cleaning, field transformations, and calculating key metrics (Unworked Amount, Overtime Earnings, Variance).
