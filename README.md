@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the **Operations Planning Analytics** repository! This project presents an operational capacity, labor utilization, and budget control model designed to evaluate workforce allocation across multiple global manufacturing and operational divisions (Assembly, Packaging, and Management). By analyzing planned vs. actual labor hours, overtime trends, and budget variances, this model enables workforce optimization and operational cost control.
 
-<img width="1228" height="657" alt="Operations_Planning" src="https://github.com/user-attachments/assets/91811dc5-a976-4018-bcb3-818410d555e0" />
+<img width="1042" height="525" alt="Operationq_Planning" src="https://github.com/user-attachments/assets/116e619d-6c90-4b28-a9ae-52fd9dbe5d09" />
 
 ## The Problem
 Operations and plant managers frequently encounter resource allocation inefficiencies, unexpected labor budget overruns, and capacity imbalances across production locations. Key challenges include:
