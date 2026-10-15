@@ -1,7 +1,7 @@
 # Operations & Workforce Capacity Planning Model
 
 ## Introduction
-Welcome to the **Operations Planning Analytics** repository! This project presents an operational capacity, labor utilization, and budget control model designed to evaluate workforce allocation across multiple global manufacturing and operational divisions (Assembly, Packaging, and Management). By analyzing planned vs. actual labor hours, overtime trends, and budget variances, this model enables workforce optimization and operational cost control.
+This project presents an operational capacity, labor utilization, and budget control model designed to evaluate workforce allocation across multiple global manufacturing and operational divisions (Assembly, Packaging, and Management). By analyzing planned vs. actual labor hours, overtime trends, and budget variances, this model enables workforce optimization and operational cost control.
 
 <img width="1042" height="525" alt="Operationq_Planning" src="https://github.com/user-attachments/assets/116e619d-6c90-4b28-a9ae-52fd9dbe5d09" />
 
